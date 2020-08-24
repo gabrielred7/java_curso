@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ProgramasCondicionais {
 
     public static void main(String[] args) {
-         /**
+         
         System.out.println("Programa Media");
         Scanner teclado = new Scanner(System.in);
         System.out.println("Primeira Nota");
@@ -29,7 +29,7 @@ public class ProgramasCondicionais {
         } else {
             System.out.println("Menor de Idade");
         }
-        **/
+        
                 
     }
 }
